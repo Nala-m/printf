@@ -72,7 +72,3 @@ Conversion specifiers to handle: d, i, u, o, x, X
 11. Handle the 0 flag character for non-custom conversion specifiers.
 
 12. Handle the - flag character for non-custom conversion specifiers.
-
-13. Handle the following custom conversion specifier:
-
-r : prints the reversed string
